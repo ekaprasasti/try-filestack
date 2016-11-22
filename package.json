@@ -1,0 +1,25 @@
+{
+  "name": "try-filestack",
+  "version": "1.0.0",
+  "description": "<br> Tutorial from https://scotch.io/tutorials/build-a-mean-stack-file-uploader-app-with-filestack",
+  "main": "server.js",
+  "dependencies": {
+     "body-parser": "^1.15.0",
+     "express": "^4.13.4",
+     "mongoose": "^4.4.8",
+     "morgan": "^1.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekaprasasti/try-filestack.git"
+  },
+  "author": "Eka Prasasti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekaprasasti/try-filestack/issues"
+  },
+  "homepage": "https://github.com/ekaprasasti/try-filestack#readme"
+}
